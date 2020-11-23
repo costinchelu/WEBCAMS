@@ -1,0 +1,3860 @@
+{
+  "status": "OK",
+  "result": {
+    "offset": 0,
+    "limit": 50,
+    "total": 123,
+    "webcams": [
+      {
+        "id": "1539770011",
+        "status": "active",
+        "title": "Cheia › South-East: Gropsoarele Peak",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/11/1539770011/current/icon/1539770011.jpg",
+            "thumbnail": "https://images-webcams.windy.com/11/1539770011/current/thumbnail/1539770011.jpg",
+            "preview": "https://images-webcams.windy.com/11/1539770011/current/preview/1539770011.jpg",
+            "toenail": "https://images-webcams.windy.com/11/1539770011/current/thumbnail/1539770011.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/11/1539770011/daylight/icon/1539770011.jpg",
+            "thumbnail": "https://images-webcams.windy.com/11/1539770011/daylight/thumbnail/1539770011.jpg",
+            "preview": "https://images-webcams.windy.com/11/1539770011/daylight/preview/1539770011.jpg",
+            "toenail": "https://images-webcams.windy.com/11/1539770011/daylight/thumbnail/1539770011.jpg"
+          },
+          "update": 1577716268
+        },
+        "location": {
+          "city": "Cheia",
+          "region": "Prahova",
+          "region_code": "KehDDDIu",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.48983,
+          "longitude": 25.97532,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": true,
+            "embed": "https://api.lookr.com/embed/player/1539770011/live"
+          },
+          "day": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1539770011#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1539770011/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1539770011#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1539770011/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1539770011#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1539770011/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1539770011#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1539770011/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1263629371",
+        "status": "active",
+        "title": "Buftea: parc otopeni",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/71/1263629371/current/icon/1263629371.jpg",
+            "thumbnail": "https://images-webcams.windy.com/71/1263629371/current/thumbnail/1263629371.jpg",
+            "preview": "https://images-webcams.windy.com/71/1263629371/current/preview/1263629371.jpg",
+            "toenail": "https://images-webcams.windy.com/71/1263629371/current/thumbnail/1263629371.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/71/1263629371/daylight/icon/1263629371.jpg",
+            "thumbnail": "https://images-webcams.windy.com/71/1263629371/daylight/thumbnail/1263629371.jpg",
+            "preview": "https://images-webcams.windy.com/71/1263629371/daylight/preview/1263629371.jpg",
+            "toenail": "https://images-webcams.windy.com/71/1263629371/daylight/thumbnail/1263629371.jpg"
+          },
+          "update": 1577704214
+        },
+        "location": {
+          "city": "Buftea",
+          "region": "Ilfov",
+          "region_code": "Kehjjccj",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 44.550268,
+          "longitude": 26.072147,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": true,
+            "embed": "https://api.lookr.com/embed/player/1263629371/live"
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1263629371#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1263629371/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1263629371#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1263629371/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1263629371#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1263629371/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1263629371#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1263629371/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1530301468",
+        "status": "active",
+        "title": "Cheia › North-West: Ciucaș Peak",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/68/1530301468/current/icon/1530301468.jpg",
+            "thumbnail": "https://images-webcams.windy.com/68/1530301468/current/thumbnail/1530301468.jpg",
+            "preview": "https://images-webcams.windy.com/68/1530301468/current/preview/1530301468.jpg",
+            "toenail": "https://images-webcams.windy.com/68/1530301468/current/thumbnail/1530301468.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/68/1530301468/daylight/icon/1530301468.jpg",
+            "thumbnail": "https://images-webcams.windy.com/68/1530301468/daylight/thumbnail/1530301468.jpg",
+            "preview": "https://images-webcams.windy.com/68/1530301468/daylight/preview/1530301468.jpg",
+            "toenail": "https://images-webcams.windy.com/68/1530301468/daylight/thumbnail/1530301468.jpg"
+          },
+          "update": 1577716353
+        },
+        "location": {
+          "city": "Cheia",
+          "region": "Prahova",
+          "region_code": "KehDDDIu",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.49569,
+          "longitude": 25.971568,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1530301468#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1530301468/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1530301468#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1530301468/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1530301468#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1530301468/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1530301468#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1530301468/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1297606837",
+        "status": "active",
+        "title": "Pitești › East: Casa de Cultură",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/37/1297606837/current/icon/1297606837.jpg",
+            "thumbnail": "https://images-webcams.windy.com/37/1297606837/current/thumbnail/1297606837.jpg",
+            "preview": "https://images-webcams.windy.com/37/1297606837/current/preview/1297606837.jpg",
+            "toenail": "https://images-webcams.windy.com/37/1297606837/current/thumbnail/1297606837.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/37/1297606837/daylight/icon/1297606837.jpg",
+            "thumbnail": "https://images-webcams.windy.com/37/1297606837/daylight/thumbnail/1297606837.jpg",
+            "preview": "https://images-webcams.windy.com/37/1297606837/daylight/preview/1297606837.jpg",
+            "toenail": "https://images-webcams.windy.com/37/1297606837/daylight/thumbnail/1297606837.jpg"
+          },
+          "update": 1577740073
+        },
+        "location": {
+          "city": "Pitești",
+          "region": "Arges",
+          "region_code": "KeejWhWD",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 44.956295,
+          "longitude": 24.937763,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": true,
+            "embed": "https://api.lookr.com/embed/player/1297606837/live"
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1297606837#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1297606837/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1297606837#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1297606837/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1297606837#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1297606837/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1297606837#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1297606837/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1547591341",
+        "status": "active",
+        "title": "Ceahlau: Durău - Parc Aventura - Durău - Duruitoarea - Ceahlău",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/41/1547591341/current/icon/1547591341.jpg",
+            "thumbnail": "https://images-webcams.windy.com/41/1547591341/current/thumbnail/1547591341.jpg",
+            "preview": "https://images-webcams.windy.com/41/1547591341/current/preview/1547591341.jpg",
+            "toenail": "https://images-webcams.windy.com/41/1547591341/current/thumbnail/1547591341.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/41/1547591341/daylight/icon/1547591341.jpg",
+            "thumbnail": "https://images-webcams.windy.com/41/1547591341/daylight/thumbnail/1547591341.jpg",
+            "preview": "https://images-webcams.windy.com/41/1547591341/daylight/preview/1547591341.jpg",
+            "toenail": "https://images-webcams.windy.com/41/1547591341/daylight/thumbnail/1547591341.jpg"
+          },
+          "update": 1577739806
+        },
+        "location": {
+          "city": "Ceahlau",
+          "region": "Neamt",
+          "region_code": "KeegbjuD",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.996656,
+          "longitude": 25.924158,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547591341#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1547591341/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547591341#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1547591341/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547591341#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1547591341/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1547591341#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1547591341/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1214473250",
+        "status": "active",
+        "title": "Sibiu: Piata Mica webcam",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/50/1214473250/current/icon/1214473250.jpg",
+            "thumbnail": "https://images-webcams.windy.com/50/1214473250/current/thumbnail/1214473250.jpg",
+            "preview": "https://images-webcams.windy.com/50/1214473250/current/preview/1214473250.jpg",
+            "toenail": "https://images-webcams.windy.com/50/1214473250/current/thumbnail/1214473250.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/50/1214473250/daylight/icon/1214473250.jpg",
+            "thumbnail": "https://images-webcams.windy.com/50/1214473250/daylight/thumbnail/1214473250.jpg",
+            "preview": "https://images-webcams.windy.com/50/1214473250/daylight/preview/1214473250.jpg",
+            "toenail": "https://images-webcams.windy.com/50/1214473250/daylight/thumbnail/1214473250.jpg"
+          },
+          "update": 1577739840
+        },
+        "location": {
+          "city": "Sibiu",
+          "region": "Sibiu",
+          "region_code": "KeegbDbj",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.797702,
+          "longitude": 24.151922,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1214473250#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1214473250/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1214473250#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1214473250/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1214473250#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1214473250/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1214473250#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1214473250/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1567325940",
+        "status": "active",
+        "title": "Mamaia: Lake Siutghiol - Bulevardul Mamaia Nord - Black Sea",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/40/1567325940/current/icon/1567325940.jpg",
+            "thumbnail": "https://images-webcams.windy.com/40/1567325940/current/thumbnail/1567325940.jpg",
+            "preview": "https://images-webcams.windy.com/40/1567325940/current/preview/1567325940.jpg",
+            "toenail": "https://images-webcams.windy.com/40/1567325940/current/thumbnail/1567325940.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/40/1567325940/daylight/icon/1567325940.jpg",
+            "thumbnail": "https://images-webcams.windy.com/40/1567325940/daylight/thumbnail/1567325940.jpg",
+            "preview": "https://images-webcams.windy.com/40/1567325940/daylight/preview/1567325940.jpg",
+            "toenail": "https://images-webcams.windy.com/40/1567325940/daylight/thumbnail/1567325940.jpg"
+          },
+          "update": 1577739823
+        },
+        "location": {
+          "city": "Mamaia",
+          "region": "Constanta",
+          "region_code": "KehjuIee",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 44.228625,
+          "longitude": 28.627872,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1567325940#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1567325940/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1567325940#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1567325940/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1567325940#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1567325940/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1567325940#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1567325940/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1520257172",
+        "status": "active",
+        "title": "Poiana Marului: Muntele Mic - Caraş-Severin - Partia Borlova",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/72/1520257172/current/icon/1520257172.jpg",
+            "thumbnail": "https://images-webcams.windy.com/72/1520257172/current/thumbnail/1520257172.jpg",
+            "preview": "https://images-webcams.windy.com/72/1520257172/current/preview/1520257172.jpg",
+            "toenail": "https://images-webcams.windy.com/72/1520257172/current/thumbnail/1520257172.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/72/1520257172/daylight/icon/1520257172.jpg",
+            "thumbnail": "https://images-webcams.windy.com/72/1520257172/daylight/thumbnail/1520257172.jpg",
+            "preview": "https://images-webcams.windy.com/72/1520257172/daylight/preview/1520257172.jpg",
+            "toenail": "https://images-webcams.windy.com/72/1520257172/daylight/thumbnail/1520257172.jpg"
+          },
+          "update": 1577682968
+        },
+        "location": {
+          "city": "Poiana Marului",
+          "region": "Caras-Severin",
+          "region_code": "Kehjjbuh",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.361122,
+          "longitude": 22.469073,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": "https://ro.wikipedia.org/wiki/Poiana Mărului, Caraș-Severin"
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1520257172#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1520257172/day"
+          },
+          "month": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1520257172#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1520257172/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1520257172#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1520257172/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1520257172#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1520257172/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1261418327",
+        "status": "active",
+        "title": "Sighișoara: Piața Muzeului",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/27/1261418327/current/icon/1261418327.jpg",
+            "thumbnail": "https://images-webcams.windy.com/27/1261418327/current/thumbnail/1261418327.jpg",
+            "preview": "https://images-webcams.windy.com/27/1261418327/current/preview/1261418327.jpg",
+            "toenail": "https://images-webcams.windy.com/27/1261418327/current/thumbnail/1261418327.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/27/1261418327/daylight/icon/1261418327.jpg",
+            "thumbnail": "https://images-webcams.windy.com/27/1261418327/daylight/thumbnail/1261418327.jpg",
+            "preview": "https://images-webcams.windy.com/27/1261418327/daylight/preview/1261418327.jpg",
+            "toenail": "https://images-webcams.windy.com/27/1261418327/daylight/thumbnail/1261418327.jpg"
+          },
+          "update": 1577739771
+        },
+        "location": {
+          "city": "Sighișoara",
+          "region": "Mures",
+          "region_code": "KeegbDuh",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.219663,
+          "longitude": 24.791894,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": "https://en.wikipedia.org/wiki/Historic Centre of Sighișoara"
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1261418327#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1261418327/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1261418327#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1261418327/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1261418327#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1261418327/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1261418327#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1261418327/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1520758803",
+        "status": "active",
+        "title": "Barcut: street",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/03/1520758803/current/icon/1520758803.jpg",
+            "thumbnail": "https://images-webcams.windy.com/03/1520758803/current/thumbnail/1520758803.jpg",
+            "preview": "https://images-webcams.windy.com/03/1520758803/current/preview/1520758803.jpg",
+            "toenail": "https://images-webcams.windy.com/03/1520758803/current/thumbnail/1520758803.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/03/1520758803/daylight/icon/1520758803.jpg",
+            "thumbnail": "https://images-webcams.windy.com/03/1520758803/daylight/thumbnail/1520758803.jpg",
+            "preview": "https://images-webcams.windy.com/03/1520758803/daylight/preview/1520758803.jpg",
+            "toenail": "https://images-webcams.windy.com/03/1520758803/daylight/thumbnail/1520758803.jpg"
+          },
+          "update": 1577737360
+        },
+        "location": {
+          "city": "Barcut",
+          "region": "Brasov",
+          "region_code": "KeegbjWe",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.997618,
+          "longitude": 24.91987,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1520758803#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1520758803/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1520758803#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1520758803/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1520758803#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1520758803/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1520758803#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1520758803/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1276096762",
+        "status": "active",
+        "title": "Valiug: Semenic",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/62/1276096762/current/icon/1276096762.jpg",
+            "thumbnail": "https://images-webcams.windy.com/62/1276096762/current/thumbnail/1276096762.jpg",
+            "preview": "https://images-webcams.windy.com/62/1276096762/current/preview/1276096762.jpg",
+            "toenail": "https://images-webcams.windy.com/62/1276096762/current/thumbnail/1276096762.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/62/1276096762/daylight/icon/1276096762.jpg",
+            "thumbnail": "https://images-webcams.windy.com/62/1276096762/daylight/thumbnail/1276096762.jpg",
+            "preview": "https://images-webcams.windy.com/62/1276096762/daylight/preview/1276096762.jpg",
+            "toenail": "https://images-webcams.windy.com/62/1276096762/daylight/thumbnail/1276096762.jpg"
+          },
+          "update": 1577740271
+        },
+        "location": {
+          "city": "Valiug",
+          "region": "Caras-Severin",
+          "region_code": "Kehjjbuh",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.1778,
+          "longitude": 22.0578,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1276096762#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1276096762/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1276096762#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1276096762/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1276096762#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1276096762/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1276096762#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1276096762/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1419338769",
+        "status": "active",
+        "title": "Rausor: Râuşor",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/69/1419338769/current/icon/1419338769.jpg",
+            "thumbnail": "https://images-webcams.windy.com/69/1419338769/current/thumbnail/1419338769.jpg",
+            "preview": "https://images-webcams.windy.com/69/1419338769/current/preview/1419338769.jpg",
+            "toenail": "https://images-webcams.windy.com/69/1419338769/current/thumbnail/1419338769.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/69/1419338769/daylight/icon/1419338769.jpg",
+            "thumbnail": "https://images-webcams.windy.com/69/1419338769/daylight/thumbnail/1419338769.jpg",
+            "preview": "https://images-webcams.windy.com/69/1419338769/daylight/preview/1419338769.jpg",
+            "toenail": "https://images-webcams.windy.com/69/1419338769/daylight/thumbnail/1419338769.jpg"
+          },
+          "update": 1577740386
+        },
+        "location": {
+          "city": "Rausor",
+          "region": "Hunedoara",
+          "region_code": "Keegbuhu",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.419292,
+          "longitude": 22.85555,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1419338769#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1419338769/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1419338769#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1419338769/month"
+          },
+          "year": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1419338769#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1419338769/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1419338769#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1419338769/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1327237153",
+        "status": "active",
+        "title": "Brasov: Strada Mureșenilor",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/53/1327237153/current/icon/1327237153.jpg",
+            "thumbnail": "https://images-webcams.windy.com/53/1327237153/current/thumbnail/1327237153.jpg",
+            "preview": "https://images-webcams.windy.com/53/1327237153/current/preview/1327237153.jpg",
+            "toenail": "https://images-webcams.windy.com/53/1327237153/current/thumbnail/1327237153.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/53/1327237153/daylight/icon/1327237153.jpg",
+            "thumbnail": "https://images-webcams.windy.com/53/1327237153/daylight/thumbnail/1327237153.jpg",
+            "preview": "https://images-webcams.windy.com/53/1327237153/daylight/preview/1327237153.jpg",
+            "toenail": "https://images-webcams.windy.com/53/1327237153/daylight/thumbnail/1327237153.jpg"
+          },
+          "update": 1577739873
+        },
+        "location": {
+          "city": "Brasov",
+          "region": "Brasov",
+          "region_code": "KeegbjWe",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.64433,
+          "longitude": 25.589351,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1327237153#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1327237153/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1327237153#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1327237153/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1327237153#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1327237153/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1327237153#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1327237153/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1395751824",
+        "status": "active",
+        "title": "Bacău: Bacau - Calea Bucuresti",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/24/1395751824/current/icon/1395751824.jpg",
+            "thumbnail": "https://images-webcams.windy.com/24/1395751824/current/thumbnail/1395751824.jpg",
+            "preview": "https://images-webcams.windy.com/24/1395751824/current/preview/1395751824.jpg",
+            "toenail": "https://images-webcams.windy.com/24/1395751824/current/thumbnail/1395751824.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/24/1395751824/daylight/icon/1395751824.jpg",
+            "thumbnail": "https://images-webcams.windy.com/24/1395751824/daylight/thumbnail/1395751824.jpg",
+            "preview": "https://images-webcams.windy.com/24/1395751824/daylight/preview/1395751824.jpg",
+            "toenail": "https://images-webcams.windy.com/24/1395751824/daylight/thumbnail/1395751824.jpg"
+          },
+          "update": 1577740013
+        },
+        "location": {
+          "city": "Bacău",
+          "region": "Bacau",
+          "region_code": "KeegbjbW",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.56667,
+          "longitude": 26.9,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1395751824#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1395751824/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1395751824#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1395751824/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1395751824#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1395751824/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1395751824#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1395751824/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1536400689",
+        "status": "active",
+        "title": "Limanu: Constanța - Marina Lumanu",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/89/1536400689/current/icon/1536400689.jpg",
+            "thumbnail": "https://images-webcams.windy.com/89/1536400689/current/thumbnail/1536400689.jpg",
+            "preview": "https://images-webcams.windy.com/89/1536400689/current/preview/1536400689.jpg",
+            "toenail": "https://images-webcams.windy.com/89/1536400689/current/thumbnail/1536400689.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/89/1536400689/daylight/icon/1536400689.jpg",
+            "thumbnail": "https://images-webcams.windy.com/89/1536400689/daylight/thumbnail/1536400689.jpg",
+            "preview": "https://images-webcams.windy.com/89/1536400689/daylight/preview/1536400689.jpg",
+            "toenail": "https://images-webcams.windy.com/89/1536400689/daylight/thumbnail/1536400689.jpg"
+          },
+          "update": 1577737856
+        },
+        "location": {
+          "city": "Limanu",
+          "region": "Constanta",
+          "region_code": "KehjuIee",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 43.806547,
+          "longitude": 28.551136,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": "https://ro.wikipedia.org/wiki/Limanu, Constanța"
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1536400689#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1536400689/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1536400689#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1536400689/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1536400689#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1536400689/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1536400689#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1536400689/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1292507849",
+        "status": "active",
+        "title": "Târgu Jiu › South: Coloana Infinitului",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/49/1292507849/current/icon/1292507849.jpg",
+            "thumbnail": "https://images-webcams.windy.com/49/1292507849/current/thumbnail/1292507849.jpg",
+            "preview": "https://images-webcams.windy.com/49/1292507849/current/preview/1292507849.jpg",
+            "toenail": "https://images-webcams.windy.com/49/1292507849/current/thumbnail/1292507849.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/49/1292507849/daylight/icon/1292507849.jpg",
+            "thumbnail": "https://images-webcams.windy.com/49/1292507849/daylight/thumbnail/1292507849.jpg",
+            "preview": "https://images-webcams.windy.com/49/1292507849/daylight/preview/1292507849.jpg",
+            "toenail": "https://images-webcams.windy.com/49/1292507849/daylight/thumbnail/1292507849.jpg"
+          },
+          "update": 1577740460
+        },
+        "location": {
+          "city": "Târgu Jiu",
+          "region": "Gorj",
+          "region_code": "KeejWeuD",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.038248,
+          "longitude": 23.285955,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": true,
+            "embed": "https://api.lookr.com/embed/player/1292507849/live"
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1292507849#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1292507849/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1292507849#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1292507849/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1292507849#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1292507849/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1292507849#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1292507849/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1433486616",
+        "status": "active",
+        "title": "Tulcea: Lacul Ciuperca",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/16/1433486616/current/icon/1433486616.jpg",
+            "thumbnail": "https://images-webcams.windy.com/16/1433486616/current/thumbnail/1433486616.jpg",
+            "preview": "https://images-webcams.windy.com/16/1433486616/current/preview/1433486616.jpg",
+            "toenail": "https://images-webcams.windy.com/16/1433486616/current/thumbnail/1433486616.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/16/1433486616/daylight/icon/1433486616.jpg",
+            "thumbnail": "https://images-webcams.windy.com/16/1433486616/daylight/thumbnail/1433486616.jpg",
+            "preview": "https://images-webcams.windy.com/16/1433486616/daylight/preview/1433486616.jpg",
+            "toenail": "https://images-webcams.windy.com/16/1433486616/daylight/thumbnail/1433486616.jpg"
+          },
+          "update": 1577739720
+        },
+        "location": {
+          "city": "Tulcea",
+          "region": "Tulcea",
+          "region_code": "KehjuIgg",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.16667,
+          "longitude": 28.8,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1433486616#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1433486616/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1433486616#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1433486616/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1433486616#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1433486616/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1433486616#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1433486616/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1544689992",
+        "status": "active",
+        "title": "Valiug: Caraş-Severin",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/92/1544689992/current/icon/1544689992.jpg",
+            "thumbnail": "https://images-webcams.windy.com/92/1544689992/current/thumbnail/1544689992.jpg",
+            "preview": "https://images-webcams.windy.com/92/1544689992/current/preview/1544689992.jpg",
+            "toenail": "https://images-webcams.windy.com/92/1544689992/current/thumbnail/1544689992.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/92/1544689992/daylight/icon/1544689992.jpg",
+            "thumbnail": "https://images-webcams.windy.com/92/1544689992/daylight/thumbnail/1544689992.jpg",
+            "preview": "https://images-webcams.windy.com/92/1544689992/daylight/preview/1544689992.jpg",
+            "toenail": "https://images-webcams.windy.com/92/1544689992/daylight/thumbnail/1544689992.jpg"
+          },
+          "update": 1577740188
+        },
+        "location": {
+          "city": "Valiug",
+          "region": "Caras-Severin",
+          "region_code": "Kehjjbuh",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.23333,
+          "longitude": 22.03333,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1544689992#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1544689992/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1544689992#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1544689992/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1544689992#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1544689992/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1544689992#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1544689992/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1445095175",
+        "status": "active",
+        "title": "Târgu Jiu › East: The Gate Of The Kiss",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/75/1445095175/current/icon/1445095175.jpg",
+            "thumbnail": "https://images-webcams.windy.com/75/1445095175/current/thumbnail/1445095175.jpg",
+            "preview": "https://images-webcams.windy.com/75/1445095175/current/preview/1445095175.jpg",
+            "toenail": "https://images-webcams.windy.com/75/1445095175/current/thumbnail/1445095175.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/75/1445095175/daylight/icon/1445095175.jpg",
+            "thumbnail": "https://images-webcams.windy.com/75/1445095175/daylight/thumbnail/1445095175.jpg",
+            "preview": "https://images-webcams.windy.com/75/1445095175/daylight/preview/1445095175.jpg",
+            "toenail": "https://images-webcams.windy.com/75/1445095175/daylight/thumbnail/1445095175.jpg"
+          },
+          "update": 1577740369
+        },
+        "location": {
+          "city": "Târgu Jiu",
+          "region": "Gorj",
+          "region_code": "KeejWeuD",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.039564,
+          "longitude": 23.268575,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1445095175#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1445095175/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1445095175#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1445095175/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1445095175#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1445095175/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1445095175#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1445095175/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1513721470",
+        "status": "active",
+        "title": "Bacău: Stadionul Municipal",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/70/1513721470/current/icon/1513721470.jpg",
+            "thumbnail": "https://images-webcams.windy.com/70/1513721470/current/thumbnail/1513721470.jpg",
+            "preview": "https://images-webcams.windy.com/70/1513721470/current/preview/1513721470.jpg",
+            "toenail": "https://images-webcams.windy.com/70/1513721470/current/thumbnail/1513721470.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/70/1513721470/daylight/icon/1513721470.jpg",
+            "thumbnail": "https://images-webcams.windy.com/70/1513721470/daylight/thumbnail/1513721470.jpg",
+            "preview": "https://images-webcams.windy.com/70/1513721470/daylight/preview/1513721470.jpg",
+            "toenail": "https://images-webcams.windy.com/70/1513721470/daylight/thumbnail/1513721470.jpg"
+          },
+          "update": 1577739634
+        },
+        "location": {
+          "city": "Bacău",
+          "region": "Bacau",
+          "region_code": "KeegbjbW",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.556412,
+          "longitude": 26.910407,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1513721470#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1513721470/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1513721470#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1513721470/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1513721470#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1513721470/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1513721470#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1513721470/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1368963104",
+        "status": "active",
+        "title": "Brasov: Poiana - Postavarul",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/04/1368963104/current/icon/1368963104.jpg",
+            "thumbnail": "https://images-webcams.windy.com/04/1368963104/current/thumbnail/1368963104.jpg",
+            "preview": "https://images-webcams.windy.com/04/1368963104/current/preview/1368963104.jpg",
+            "toenail": "https://images-webcams.windy.com/04/1368963104/current/thumbnail/1368963104.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/04/1368963104/daylight/icon/1368963104.jpg",
+            "thumbnail": "https://images-webcams.windy.com/04/1368963104/daylight/thumbnail/1368963104.jpg",
+            "preview": "https://images-webcams.windy.com/04/1368963104/daylight/preview/1368963104.jpg",
+            "toenail": "https://images-webcams.windy.com/04/1368963104/daylight/thumbnail/1368963104.jpg"
+          },
+          "update": 1577739854
+        },
+        "location": {
+          "city": "Brasov",
+          "region": "Brasov",
+          "region_code": "KeegbjWe",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.571965,
+          "longitude": 25.554585,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1368963104#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1368963104/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1368963104#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1368963104/month"
+          },
+          "year": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1368963104#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1368963104/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1368963104#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1368963104/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1530731888",
+        "status": "active",
+        "title": "Suceava › North-West: Stadionul Areni - Direcţia Silvică Suceava - Stefan cel Mare University - Bulevardul 1 Mai - Strada Universității",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/88/1530731888/current/icon/1530731888.jpg",
+            "thumbnail": "https://images-webcams.windy.com/88/1530731888/current/thumbnail/1530731888.jpg",
+            "preview": "https://images-webcams.windy.com/88/1530731888/current/preview/1530731888.jpg",
+            "toenail": "https://images-webcams.windy.com/88/1530731888/current/thumbnail/1530731888.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/88/1530731888/daylight/icon/1530731888.jpg",
+            "thumbnail": "https://images-webcams.windy.com/88/1530731888/daylight/thumbnail/1530731888.jpg",
+            "preview": "https://images-webcams.windy.com/88/1530731888/daylight/preview/1530731888.jpg",
+            "toenail": "https://images-webcams.windy.com/88/1530731888/daylight/thumbnail/1530731888.jpg"
+          },
+          "update": 1577739794
+        },
+        "location": {
+          "city": "Suceava",
+          "region": "Suceava",
+          "region_code": "KeIuubjb",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 47.640133,
+          "longitude": 26.24766,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1530731888#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1530731888/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1530731888#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1530731888/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1530731888#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1530731888/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1530731888#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1530731888/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1545673769",
+        "status": "active",
+        "title": "Cheia › North-East: Gropsoarele Peak",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/69/1545673769/current/icon/1545673769.jpg",
+            "thumbnail": "https://images-webcams.windy.com/69/1545673769/current/thumbnail/1545673769.jpg",
+            "preview": "https://images-webcams.windy.com/69/1545673769/current/preview/1545673769.jpg",
+            "toenail": "https://images-webcams.windy.com/69/1545673769/current/thumbnail/1545673769.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/69/1545673769/daylight/icon/1545673769.jpg",
+            "thumbnail": "https://images-webcams.windy.com/69/1545673769/daylight/thumbnail/1545673769.jpg",
+            "preview": "https://images-webcams.windy.com/69/1545673769/daylight/preview/1545673769.jpg",
+            "toenail": "https://images-webcams.windy.com/69/1545673769/daylight/thumbnail/1545673769.jpg"
+          },
+          "update": 1577739877
+        },
+        "location": {
+          "city": "Cheia",
+          "region": "Prahova",
+          "region_code": "KehDDDIu",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.457992,
+          "longitude": 25.94067,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1545673769#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1545673769/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1545673769#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1545673769/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1545673769#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1545673769/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1545673769#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1545673769/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1513721465",
+        "status": "active",
+        "title": "Galati: Parc La Elice",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/65/1513721465/current/icon/1513721465.jpg",
+            "thumbnail": "https://images-webcams.windy.com/65/1513721465/current/thumbnail/1513721465.jpg",
+            "preview": "https://images-webcams.windy.com/65/1513721465/current/preview/1513721465.jpg",
+            "toenail": "https://images-webcams.windy.com/65/1513721465/current/thumbnail/1513721465.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/65/1513721465/daylight/icon/1513721465.jpg",
+            "thumbnail": "https://images-webcams.windy.com/65/1513721465/daylight/thumbnail/1513721465.jpg",
+            "preview": "https://images-webcams.windy.com/65/1513721465/daylight/preview/1513721465.jpg",
+            "toenail": "https://images-webcams.windy.com/65/1513721465/daylight/thumbnail/1513721465.jpg"
+          },
+          "update": 1577739817
+        },
+        "location": {
+          "city": "Galati",
+          "region": "Hunedoara",
+          "region_code": "Keegbuhu",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.429216,
+          "longitude": 28.054313,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1513721465#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1513721465/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1513721465#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1513721465/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1513721465#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1513721465/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1513721465#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1513721465/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1545292409",
+        "status": "active",
+        "title": "Vartop › North: Vârtop - Partia de Ski - Partie de schi",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/09/1545292409/current/icon/1545292409.jpg",
+            "thumbnail": "https://images-webcams.windy.com/09/1545292409/current/thumbnail/1545292409.jpg",
+            "preview": "https://images-webcams.windy.com/09/1545292409/current/preview/1545292409.jpg",
+            "toenail": "https://images-webcams.windy.com/09/1545292409/current/thumbnail/1545292409.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/09/1545292409/daylight/icon/1545292409.jpg",
+            "thumbnail": "https://images-webcams.windy.com/09/1545292409/daylight/thumbnail/1545292409.jpg",
+            "preview": "https://images-webcams.windy.com/09/1545292409/daylight/preview/1545292409.jpg",
+            "toenail": "https://images-webcams.windy.com/09/1545292409/daylight/thumbnail/1545292409.jpg"
+          },
+          "update": 1577738909
+        },
+        "location": {
+          "city": "Vartop",
+          "region": "Dolj",
+          "region_code": "KehjjcuI",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.51411,
+          "longitude": 22.67544,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1545292409#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1545292409/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1545292409#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1545292409/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1545292409#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1545292409/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1545292409#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1545292409/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1519647455",
+        "status": "active",
+        "title": "Predelut › North-East: Vila Evergreen - Postăvarul Massif",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/55/1519647455/current/icon/1519647455.jpg",
+            "thumbnail": "https://images-webcams.windy.com/55/1519647455/current/thumbnail/1519647455.jpg",
+            "preview": "https://images-webcams.windy.com/55/1519647455/current/preview/1519647455.jpg",
+            "toenail": "https://images-webcams.windy.com/55/1519647455/current/thumbnail/1519647455.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/55/1519647455/daylight/icon/1519647455.jpg",
+            "thumbnail": "https://images-webcams.windy.com/55/1519647455/daylight/thumbnail/1519647455.jpg",
+            "preview": "https://images-webcams.windy.com/55/1519647455/daylight/preview/1519647455.jpg",
+            "toenail": "https://images-webcams.windy.com/55/1519647455/daylight/thumbnail/1519647455.jpg"
+          },
+          "update": 1577739278
+        },
+        "location": {
+          "city": "Predelut",
+          "region": "Brasov",
+          "region_code": "KeegbjWe",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.509708,
+          "longitude": 25.566118,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": "https://ro.wikipedia.org/wiki/Predeluț, Brașov"
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1519647455#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1519647455/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1519647455#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1519647455/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1519647455#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1519647455/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1519647455#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1519647455/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1374160102",
+        "status": "active",
+        "title": "Valea Crisului: Sugas",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/02/1374160102/current/icon/1374160102.jpg",
+            "thumbnail": "https://images-webcams.windy.com/02/1374160102/current/thumbnail/1374160102.jpg",
+            "preview": "https://images-webcams.windy.com/02/1374160102/current/preview/1374160102.jpg",
+            "toenail": "https://images-webcams.windy.com/02/1374160102/current/thumbnail/1374160102.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/02/1374160102/daylight/icon/1374160102.jpg",
+            "thumbnail": "https://images-webcams.windy.com/02/1374160102/daylight/thumbnail/1374160102.jpg",
+            "preview": "https://images-webcams.windy.com/02/1374160102/daylight/preview/1374160102.jpg",
+            "toenail": "https://images-webcams.windy.com/02/1374160102/daylight/thumbnail/1374160102.jpg"
+          },
+          "update": 1577739241
+        },
+        "location": {
+          "city": "Valea Crisului",
+          "region": "Bihor",
+          "region_code": "KcWuhW",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.897714,
+          "longitude": 25.709746,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1374160102#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1374160102/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1374160102#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1374160102/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1374160102#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1374160102/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1374160102#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1374160102/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1547079910",
+        "status": "active",
+        "title": "Borsec › East: Harghita",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/10/1547079910/current/icon/1547079910.jpg",
+            "thumbnail": "https://images-webcams.windy.com/10/1547079910/current/thumbnail/1547079910.jpg",
+            "preview": "https://images-webcams.windy.com/10/1547079910/current/preview/1547079910.jpg",
+            "toenail": "https://images-webcams.windy.com/10/1547079910/current/thumbnail/1547079910.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/10/1547079910/daylight/icon/1547079910.jpg",
+            "thumbnail": "https://images-webcams.windy.com/10/1547079910/daylight/thumbnail/1547079910.jpg",
+            "preview": "https://images-webcams.windy.com/10/1547079910/daylight/preview/1547079910.jpg",
+            "toenail": "https://images-webcams.windy.com/10/1547079910/daylight/thumbnail/1547079910.jpg"
+          },
+          "update": 1577740090
+        },
+        "location": {
+          "city": "Borsec",
+          "region": "Harghita",
+          "region_code": "KeegbjjI",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.977916,
+          "longitude": 25.577859,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547079910#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1547079910/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547079910#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1547079910/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547079910#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1547079910/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1547079910#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1547079910/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1567324988",
+        "status": "active",
+        "title": "Roman › North: Park Municipal Roman",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/88/1567324988/current/icon/1567324988.jpg",
+            "thumbnail": "https://images-webcams.windy.com/88/1567324988/current/thumbnail/1567324988.jpg",
+            "preview": "https://images-webcams.windy.com/88/1567324988/current/preview/1567324988.jpg",
+            "toenail": "https://images-webcams.windy.com/88/1567324988/current/thumbnail/1567324988.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/88/1567324988/daylight/icon/1567324988.jpg",
+            "thumbnail": "https://images-webcams.windy.com/88/1567324988/daylight/thumbnail/1567324988.jpg",
+            "preview": "https://images-webcams.windy.com/88/1567324988/daylight/preview/1567324988.jpg",
+            "toenail": "https://images-webcams.windy.com/88/1567324988/daylight/thumbnail/1567324988.jpg"
+          },
+          "update": 1577739801
+        },
+        "location": {
+          "city": "Roman",
+          "region": "Neamt",
+          "region_code": "KeegbjuD",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.933711,
+          "longitude": 26.923728,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1567324988#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1567324988/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1567324988#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1567324988/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1567324988#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1567324988/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1567324988#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1567324988/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1388004173",
+        "status": "active",
+        "title": "Buzău: Buzau Parcul Crang",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/73/1388004173/current/icon/1388004173.jpg",
+            "thumbnail": "https://images-webcams.windy.com/73/1388004173/current/thumbnail/1388004173.jpg",
+            "preview": "https://images-webcams.windy.com/73/1388004173/current/preview/1388004173.jpg",
+            "toenail": "https://images-webcams.windy.com/73/1388004173/current/thumbnail/1388004173.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/73/1388004173/daylight/icon/1388004173.jpg",
+            "thumbnail": "https://images-webcams.windy.com/73/1388004173/daylight/thumbnail/1388004173.jpg",
+            "preview": "https://images-webcams.windy.com/73/1388004173/daylight/preview/1388004173.jpg",
+            "toenail": "https://images-webcams.windy.com/73/1388004173/daylight/thumbnail/1388004173.jpg"
+          },
+          "update": 1577739696
+        },
+        "location": {
+          "city": "Buzău",
+          "region": "Buzau",
+          "region_code": "KehDDDWW",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.15,
+          "longitude": 26.83333,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": "https://ro.wikipedia.org/wiki/Buzău"
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1388004173#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1388004173/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1388004173#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1388004173/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1388004173#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1388004173/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1388004173#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1388004173/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1401975375",
+        "status": "active",
+        "title": "Pitești: Arges",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/75/1401975375/current/icon/1401975375.jpg",
+            "thumbnail": "https://images-webcams.windy.com/75/1401975375/current/thumbnail/1401975375.jpg",
+            "preview": "https://images-webcams.windy.com/75/1401975375/current/preview/1401975375.jpg",
+            "toenail": "https://images-webcams.windy.com/75/1401975375/current/thumbnail/1401975375.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/75/1401975375/daylight/icon/1401975375.jpg",
+            "thumbnail": "https://images-webcams.windy.com/75/1401975375/daylight/thumbnail/1401975375.jpg",
+            "preview": "https://images-webcams.windy.com/75/1401975375/daylight/preview/1401975375.jpg",
+            "toenail": "https://images-webcams.windy.com/75/1401975375/daylight/thumbnail/1401975375.jpg"
+          },
+          "update": 1577740122
+        },
+        "location": {
+          "city": "Pitești",
+          "region": "Arges",
+          "region_code": "KeejWhWD",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 44.85,
+          "longitude": 24.86667,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1401975375#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1401975375/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1401975375#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1401975375/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1401975375#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1401975375/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1401975375#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1401975375/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1513721464",
+        "status": "active",
+        "title": "Deva: Bulevardul  Decembrie",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/64/1513721464/current/icon/1513721464.jpg",
+            "thumbnail": "https://images-webcams.windy.com/64/1513721464/current/thumbnail/1513721464.jpg",
+            "preview": "https://images-webcams.windy.com/64/1513721464/current/preview/1513721464.jpg",
+            "toenail": "https://images-webcams.windy.com/64/1513721464/current/thumbnail/1513721464.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/64/1513721464/daylight/icon/1513721464.jpg",
+            "thumbnail": "https://images-webcams.windy.com/64/1513721464/daylight/thumbnail/1513721464.jpg",
+            "preview": "https://images-webcams.windy.com/64/1513721464/daylight/preview/1513721464.jpg",
+            "toenail": "https://images-webcams.windy.com/64/1513721464/daylight/thumbnail/1513721464.jpg"
+          },
+          "update": 1577737017
+        },
+        "location": {
+          "city": "Deva",
+          "region": "Hunedoara",
+          "region_code": "Keegbuhu",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.87421,
+          "longitude": 22.912331,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1513721464#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1513721464/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1513721464#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1513721464/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1513721464#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1513721464/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1513721464#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1513721464/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1515327195",
+        "status": "active",
+        "title": "Sighișoara: Mureş",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/95/1515327195/current/icon/1515327195.jpg",
+            "thumbnail": "https://images-webcams.windy.com/95/1515327195/current/thumbnail/1515327195.jpg",
+            "preview": "https://images-webcams.windy.com/95/1515327195/current/preview/1515327195.jpg",
+            "toenail": "https://images-webcams.windy.com/95/1515327195/current/thumbnail/1515327195.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/95/1515327195/daylight/icon/1515327195.jpg",
+            "thumbnail": "https://images-webcams.windy.com/95/1515327195/daylight/thumbnail/1515327195.jpg",
+            "preview": "https://images-webcams.windy.com/95/1515327195/daylight/preview/1515327195.jpg",
+            "toenail": "https://images-webcams.windy.com/95/1515327195/daylight/thumbnail/1515327195.jpg"
+          },
+          "update": 1577739982
+        },
+        "location": {
+          "city": "Sighișoara",
+          "region": "Mures",
+          "region_code": "KeegbDuh",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.22141,
+          "longitude": 24.79279,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": "https://en.wikipedia.org/wiki/Historic Centre of Sighișoara"
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1515327195#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1515327195/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1515327195#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1515327195/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1515327195#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1515327195/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1515327195#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1515327195/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1445095039",
+        "status": "active",
+        "title": "Târgu Jiu › South: The Table of Silence",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/39/1445095039/current/icon/1445095039.jpg",
+            "thumbnail": "https://images-webcams.windy.com/39/1445095039/current/thumbnail/1445095039.jpg",
+            "preview": "https://images-webcams.windy.com/39/1445095039/current/preview/1445095039.jpg",
+            "toenail": "https://images-webcams.windy.com/39/1445095039/current/thumbnail/1445095039.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/39/1445095039/daylight/icon/1445095039.jpg",
+            "thumbnail": "https://images-webcams.windy.com/39/1445095039/daylight/thumbnail/1445095039.jpg",
+            "preview": "https://images-webcams.windy.com/39/1445095039/daylight/preview/1445095039.jpg",
+            "toenail": "https://images-webcams.windy.com/39/1445095039/daylight/thumbnail/1445095039.jpg"
+          },
+          "update": 1577740279
+        },
+        "location": {
+          "city": "Târgu Jiu",
+          "region": "Gorj",
+          "region_code": "KeejWeuD",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.039703,
+          "longitude": 23.266662,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1445095039#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1445095039/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1445095039#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1445095039/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1445095039#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1445095039/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1445095039#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1445095039/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1546796883",
+        "status": "active",
+        "title": "Toplita: Pârtia Măgheruș - Partia Toplita - Pensiunea Baciu - Toplița",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/83/1546796883/current/icon/1546796883.jpg",
+            "thumbnail": "https://images-webcams.windy.com/83/1546796883/current/thumbnail/1546796883.jpg",
+            "preview": "https://images-webcams.windy.com/83/1546796883/current/preview/1546796883.jpg",
+            "toenail": "https://images-webcams.windy.com/83/1546796883/current/thumbnail/1546796883.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/83/1546796883/daylight/icon/1546796883.jpg",
+            "thumbnail": "https://images-webcams.windy.com/83/1546796883/daylight/thumbnail/1546796883.jpg",
+            "preview": "https://images-webcams.windy.com/83/1546796883/daylight/preview/1546796883.jpg",
+            "toenail": "https://images-webcams.windy.com/83/1546796883/daylight/thumbnail/1546796883.jpg"
+          },
+          "update": 1577739993
+        },
+        "location": {
+          "city": "Toplita",
+          "region": "Hunedoara",
+          "region_code": "Keegbuhu",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.901558,
+          "longitude": 25.328592,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1546796883#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1546796883/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1546796883#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1546796883/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1546796883#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1546796883/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1546796883#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1546796883/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1520758618",
+        "status": "active",
+        "title": "Barcut: street",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/18/1520758618/current/icon/1520758618.jpg",
+            "thumbnail": "https://images-webcams.windy.com/18/1520758618/current/thumbnail/1520758618.jpg",
+            "preview": "https://images-webcams.windy.com/18/1520758618/current/preview/1520758618.jpg",
+            "toenail": "https://images-webcams.windy.com/18/1520758618/current/thumbnail/1520758618.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/18/1520758618/daylight/icon/1520758618.jpg",
+            "thumbnail": "https://images-webcams.windy.com/18/1520758618/daylight/thumbnail/1520758618.jpg",
+            "preview": "https://images-webcams.windy.com/18/1520758618/daylight/preview/1520758618.jpg",
+            "toenail": "https://images-webcams.windy.com/18/1520758618/daylight/thumbnail/1520758618.jpg"
+          },
+          "update": 1577731479
+        },
+        "location": {
+          "city": "Barcut",
+          "region": "Brasov",
+          "region_code": "KeegbjWe",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.001385,
+          "longitude": 24.922702,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1520758618#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1520758618/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1520758618#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1520758618/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1520758618#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1520758618/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1520758618#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1520758618/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1548944873",
+        "status": "active",
+        "title": "Neptun: Constanța",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/73/1548944873/current/icon/1548944873.jpg",
+            "thumbnail": "https://images-webcams.windy.com/73/1548944873/current/thumbnail/1548944873.jpg",
+            "preview": "https://images-webcams.windy.com/73/1548944873/current/preview/1548944873.jpg",
+            "toenail": "https://images-webcams.windy.com/73/1548944873/current/thumbnail/1548944873.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/73/1548944873/daylight/icon/1548944873.jpg",
+            "thumbnail": "https://images-webcams.windy.com/73/1548944873/daylight/thumbnail/1548944873.jpg",
+            "preview": "https://images-webcams.windy.com/73/1548944873/daylight/preview/1548944873.jpg",
+            "toenail": "https://images-webcams.windy.com/73/1548944873/daylight/thumbnail/1548944873.jpg"
+          },
+          "update": 1577737146
+        },
+        "location": {
+          "city": "Neptun",
+          "region": "Constanta",
+          "region_code": "KehjuIee",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 43.871296,
+          "longitude": 28.601665,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1548944873#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1548944873/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1548944873#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1548944873/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1548944873#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1548944873/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1548944873#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1548944873/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1557661175",
+        "status": "active",
+        "title": "Ploieşti: Distrito de Prahova",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/75/1557661175/current/icon/1557661175.jpg",
+            "thumbnail": "https://images-webcams.windy.com/75/1557661175/current/thumbnail/1557661175.jpg",
+            "preview": "https://images-webcams.windy.com/75/1557661175/current/preview/1557661175.jpg",
+            "toenail": "https://images-webcams.windy.com/75/1557661175/current/thumbnail/1557661175.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/75/1557661175/daylight/icon/1557661175.jpg",
+            "thumbnail": "https://images-webcams.windy.com/75/1557661175/daylight/thumbnail/1557661175.jpg",
+            "preview": "https://images-webcams.windy.com/75/1557661175/daylight/preview/1557661175.jpg",
+            "toenail": "https://images-webcams.windy.com/75/1557661175/daylight/thumbnail/1557661175.jpg"
+          },
+          "update": 1577739118
+        },
+        "location": {
+          "city": "Ploieşti",
+          "region": "Prahova",
+          "region_code": "KehDDDIu",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 44.942885,
+          "longitude": 26.017448,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1557661175#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1557661175/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1557661175#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1557661175/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1557661175#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1557661175/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1557661175#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1557661175/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1423388742",
+        "status": "active",
+        "title": "Lupeni › South-East: Cârja",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/42/1423388742/current/icon/1423388742.jpg",
+            "thumbnail": "https://images-webcams.windy.com/42/1423388742/current/thumbnail/1423388742.jpg",
+            "preview": "https://images-webcams.windy.com/42/1423388742/current/preview/1423388742.jpg",
+            "toenail": "https://images-webcams.windy.com/42/1423388742/current/thumbnail/1423388742.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/42/1423388742/daylight/icon/1423388742.jpg",
+            "thumbnail": "https://images-webcams.windy.com/42/1423388742/daylight/thumbnail/1423388742.jpg",
+            "preview": "https://images-webcams.windy.com/42/1423388742/daylight/preview/1423388742.jpg",
+            "toenail": "https://images-webcams.windy.com/42/1423388742/daylight/thumbnail/1423388742.jpg"
+          },
+          "update": 1577736980
+        },
+        "location": {
+          "city": "Lupeni",
+          "region": "Hunedoara",
+          "region_code": "Keegbuhu",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.359443,
+          "longitude": 23.136778,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1423388742#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1423388742/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1423388742#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1423388742/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1423388742#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1423388742/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1423388742#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1423388742/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1405576337",
+        "status": "active",
+        "title": "Predelut: Vila Evergreen",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/37/1405576337/current/icon/1405576337.jpg",
+            "thumbnail": "https://images-webcams.windy.com/37/1405576337/current/thumbnail/1405576337.jpg",
+            "preview": "https://images-webcams.windy.com/37/1405576337/current/preview/1405576337.jpg",
+            "toenail": "https://images-webcams.windy.com/37/1405576337/current/thumbnail/1405576337.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/37/1405576337/daylight/icon/1405576337.jpg",
+            "thumbnail": "https://images-webcams.windy.com/37/1405576337/daylight/thumbnail/1405576337.jpg",
+            "preview": "https://images-webcams.windy.com/37/1405576337/daylight/preview/1405576337.jpg",
+            "toenail": "https://images-webcams.windy.com/37/1405576337/daylight/thumbnail/1405576337.jpg"
+          },
+          "update": 1577739931
+        },
+        "location": {
+          "city": "Predelut",
+          "region": "Brasov",
+          "region_code": "KeegbjWe",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.509578,
+          "longitude": 25.566108,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": "https://ro.wikipedia.org/wiki/Predeluț, Brașov"
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1405576337#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1405576337/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1405576337#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1405576337/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1405576337#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1405576337/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1405576337#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1405576337/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1396150726",
+        "status": "active",
+        "title": "Suceava: Webcam - Palatul administrativ",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/26/1396150726/current/icon/1396150726.jpg",
+            "thumbnail": "https://images-webcams.windy.com/26/1396150726/current/thumbnail/1396150726.jpg",
+            "preview": "https://images-webcams.windy.com/26/1396150726/current/preview/1396150726.jpg",
+            "toenail": "https://images-webcams.windy.com/26/1396150726/current/thumbnail/1396150726.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/26/1396150726/daylight/icon/1396150726.jpg",
+            "thumbnail": "https://images-webcams.windy.com/26/1396150726/daylight/thumbnail/1396150726.jpg",
+            "preview": "https://images-webcams.windy.com/26/1396150726/daylight/preview/1396150726.jpg",
+            "toenail": "https://images-webcams.windy.com/26/1396150726/daylight/thumbnail/1396150726.jpg"
+          },
+          "update": 1577740399
+        },
+        "location": {
+          "city": "Suceava",
+          "region": "Suceava",
+          "region_code": "KeIuubjb",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 47.643336,
+          "longitude": 26.259124,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": true,
+            "embed": "https://api.lookr.com/embed/player/1396150726/live"
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1396150726#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1396150726/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1396150726#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1396150726/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1396150726#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1396150726/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1396150726#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1396150726/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1511971281",
+        "status": "active",
+        "title": "Harghita-Bai: Harghita",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/81/1511971281/current/icon/1511971281.jpg",
+            "thumbnail": "https://images-webcams.windy.com/81/1511971281/current/thumbnail/1511971281.jpg",
+            "preview": "https://images-webcams.windy.com/81/1511971281/current/preview/1511971281.jpg",
+            "toenail": "https://images-webcams.windy.com/81/1511971281/current/thumbnail/1511971281.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/81/1511971281/daylight/icon/1511971281.jpg",
+            "thumbnail": "https://images-webcams.windy.com/81/1511971281/daylight/thumbnail/1511971281.jpg",
+            "preview": "https://images-webcams.windy.com/81/1511971281/daylight/preview/1511971281.jpg",
+            "toenail": "https://images-webcams.windy.com/81/1511971281/daylight/thumbnail/1511971281.jpg"
+          },
+          "update": 1577739107
+        },
+        "location": {
+          "city": "Harghita-Bai",
+          "region": "Harghita",
+          "region_code": "KeegbjjI",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.38442,
+          "longitude": 25.644675,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": "https://ro.wikipedia.org/wiki/Harghita-Băi, Harghita"
+        },
+        "player": {
+          "live": {
+            "available": true,
+            "embed": "https://api.lookr.com/embed/player/1511971281/live"
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1511971281#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1511971281/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1511971281#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1511971281/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1511971281#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1511971281/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1511971281#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1511971281/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1547014490",
+        "status": "active",
+        "title": "Baile Homorod › East: Complex Lobogo",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/90/1547014490/current/icon/1547014490.jpg",
+            "thumbnail": "https://images-webcams.windy.com/90/1547014490/current/thumbnail/1547014490.jpg",
+            "preview": "https://images-webcams.windy.com/90/1547014490/current/preview/1547014490.jpg",
+            "toenail": "https://images-webcams.windy.com/90/1547014490/current/thumbnail/1547014490.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/90/1547014490/daylight/icon/1547014490.jpg",
+            "thumbnail": "https://images-webcams.windy.com/90/1547014490/daylight/thumbnail/1547014490.jpg",
+            "preview": "https://images-webcams.windy.com/90/1547014490/daylight/preview/1547014490.jpg",
+            "toenail": "https://images-webcams.windy.com/90/1547014490/daylight/thumbnail/1547014490.jpg"
+          },
+          "update": 1577740375
+        },
+        "location": {
+          "city": "Baile Homorod",
+          "region": "Harghita",
+          "region_code": "KeegbjjI",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.350595,
+          "longitude": 25.475213,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547014490#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1547014490/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547014490#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1547014490/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547014490#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1547014490/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1547014490#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1547014490/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1482376182",
+        "status": "active",
+        "title": "Buzău: Buzau",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/82/1482376182/current/icon/1482376182.jpg",
+            "thumbnail": "https://images-webcams.windy.com/82/1482376182/current/thumbnail/1482376182.jpg",
+            "preview": "https://images-webcams.windy.com/82/1482376182/current/preview/1482376182.jpg",
+            "toenail": "https://images-webcams.windy.com/82/1482376182/current/thumbnail/1482376182.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/82/1482376182/daylight/icon/1482376182.jpg",
+            "thumbnail": "https://images-webcams.windy.com/82/1482376182/daylight/thumbnail/1482376182.jpg",
+            "preview": "https://images-webcams.windy.com/82/1482376182/daylight/preview/1482376182.jpg",
+            "toenail": "https://images-webcams.windy.com/82/1482376182/daylight/thumbnail/1482376182.jpg"
+          },
+          "update": 1577740024
+        },
+        "location": {
+          "city": "Buzău",
+          "region": "Buzau",
+          "region_code": "KehDDDWW",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.1811,
+          "longitude": 26.842302,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": "https://ro.wikipedia.org/wiki/Buzău"
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1482376182#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1482376182/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1482376182#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1482376182/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1482376182#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1482376182/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1482376182#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1482376182/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1484199819",
+        "status": "active",
+        "title": "Bacău",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/19/1484199819/current/icon/1484199819.jpg",
+            "thumbnail": "https://images-webcams.windy.com/19/1484199819/current/thumbnail/1484199819.jpg",
+            "preview": "https://images-webcams.windy.com/19/1484199819/current/preview/1484199819.jpg",
+            "toenail": "https://images-webcams.windy.com/19/1484199819/current/thumbnail/1484199819.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/19/1484199819/daylight/icon/1484199819.jpg",
+            "thumbnail": "https://images-webcams.windy.com/19/1484199819/daylight/thumbnail/1484199819.jpg",
+            "preview": "https://images-webcams.windy.com/19/1484199819/daylight/preview/1484199819.jpg",
+            "toenail": "https://images-webcams.windy.com/19/1484199819/daylight/thumbnail/1484199819.jpg"
+          },
+          "update": 1577740234
+        },
+        "location": {
+          "city": "Bacău",
+          "region": "Bacau",
+          "region_code": "KeegbjbW",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.557221,
+          "longitude": 26.917574,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1484199819#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1484199819/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1484199819#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1484199819/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1484199819#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1484199819/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1484199819#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1484199819/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1395127310",
+        "status": "active",
+        "title": "Rosia Montana: Alba",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/10/1395127310/current/icon/1395127310.jpg",
+            "thumbnail": "https://images-webcams.windy.com/10/1395127310/current/thumbnail/1395127310.jpg",
+            "preview": "https://images-webcams.windy.com/10/1395127310/current/preview/1395127310.jpg",
+            "toenail": "https://images-webcams.windy.com/10/1395127310/current/thumbnail/1395127310.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/10/1395127310/daylight/icon/1395127310.jpg",
+            "thumbnail": "https://images-webcams.windy.com/10/1395127310/daylight/thumbnail/1395127310.jpg",
+            "preview": "https://images-webcams.windy.com/10/1395127310/daylight/preview/1395127310.jpg",
+            "toenail": "https://images-webcams.windy.com/10/1395127310/daylight/thumbnail/1395127310.jpg"
+          },
+          "update": 1577739508
+        },
+        "location": {
+          "city": "Rosia Montana",
+          "region": "Alba",
+          "region_code": "KWcgeuW",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.30669,
+          "longitude": 23.13373,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1395127310#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1395127310/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1395127310#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1395127310/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1395127310#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1395127310/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1395127310#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1395127310/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1231535425",
+        "status": "active",
+        "title": "Jiet: Parang",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/25/1231535425/current/icon/1231535425.jpg",
+            "thumbnail": "https://images-webcams.windy.com/25/1231535425/current/thumbnail/1231535425.jpg",
+            "preview": "https://images-webcams.windy.com/25/1231535425/current/preview/1231535425.jpg",
+            "toenail": "https://images-webcams.windy.com/25/1231535425/current/thumbnail/1231535425.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/25/1231535425/daylight/icon/1231535425.jpg",
+            "thumbnail": "https://images-webcams.windy.com/25/1231535425/daylight/thumbnail/1231535425.jpg",
+            "preview": "https://images-webcams.windy.com/25/1231535425/daylight/preview/1231535425.jpg",
+            "toenail": "https://images-webcams.windy.com/25/1231535425/daylight/thumbnail/1231535425.jpg"
+          },
+          "update": 1577740096
+        },
+        "location": {
+          "city": "Jiet",
+          "region": "Hunedoara",
+          "region_code": "Keegbuhu",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 45.384707,
+          "longitude": 23.47744,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": "https://ro.wikipedia.org/wiki/Jieț, Hunedoara"
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1231535425#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1231535425/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1231535425#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1231535425/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1231535425#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1231535425/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1231535425#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1231535425/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1547079151",
+        "status": "active",
+        "title": "Bacău › South: Decebal - Strada Nicolae Bălcescu - Tricolorului Square - Catedrala Înălțarea Domnului - Calea Mărășești",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/51/1547079151/current/icon/1547079151.jpg",
+            "thumbnail": "https://images-webcams.windy.com/51/1547079151/current/thumbnail/1547079151.jpg",
+            "preview": "https://images-webcams.windy.com/51/1547079151/current/preview/1547079151.jpg",
+            "toenail": "https://images-webcams.windy.com/51/1547079151/current/thumbnail/1547079151.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/51/1547079151/daylight/icon/1547079151.jpg",
+            "thumbnail": "https://images-webcams.windy.com/51/1547079151/daylight/thumbnail/1547079151.jpg",
+            "preview": "https://images-webcams.windy.com/51/1547079151/daylight/preview/1547079151.jpg",
+            "toenail": "https://images-webcams.windy.com/51/1547079151/daylight/thumbnail/1547079151.jpg"
+          },
+          "update": 1577739648
+        },
+        "location": {
+          "city": "Bacău",
+          "region": "Bacau",
+          "region_code": "KeegbjbW",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.565576,
+          "longitude": 26.911356,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547079151#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1547079151/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547079151#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1547079151/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547079151#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1547079151/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1547079151#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1547079151/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1465668398",
+        "status": "active",
+        "title": "Iași",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/98/1465668398/current/icon/1465668398.jpg",
+            "thumbnail": "https://images-webcams.windy.com/98/1465668398/current/thumbnail/1465668398.jpg",
+            "preview": "https://images-webcams.windy.com/98/1465668398/current/preview/1465668398.jpg",
+            "toenail": "https://images-webcams.windy.com/98/1465668398/current/thumbnail/1465668398.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/98/1465668398/daylight/icon/1465668398.jpg",
+            "thumbnail": "https://images-webcams.windy.com/98/1465668398/daylight/thumbnail/1465668398.jpg",
+            "preview": "https://images-webcams.windy.com/98/1465668398/daylight/preview/1465668398.jpg",
+            "toenail": "https://images-webcams.windy.com/98/1465668398/daylight/thumbnail/1465668398.jpg"
+          },
+          "update": 1577740329
+        },
+        "location": {
+          "city": "Iași",
+          "region": "Iasi",
+          "region_code": "KeeDjugu",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 47.16667,
+          "longitude": 27.6,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1465668398#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1465668398/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1465668398#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1465668398/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1465668398#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1465668398/year"
+          },
+          "lifetime": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1465668398#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1465668398/lifetime"
+          }
+        }
+      },
+      {
+        "id": "1547014335",
+        "status": "active",
+        "title": "Baile Homorod › South: Complex Lobogo",
+        "image": {
+          "current": {
+            "icon": "https://images-webcams.windy.com/35/1547014335/current/icon/1547014335.jpg",
+            "thumbnail": "https://images-webcams.windy.com/35/1547014335/current/thumbnail/1547014335.jpg",
+            "preview": "https://images-webcams.windy.com/35/1547014335/current/preview/1547014335.jpg",
+            "toenail": "https://images-webcams.windy.com/35/1547014335/current/thumbnail/1547014335.jpg"
+          },
+          "sizes": {
+            "icon": {
+              "width": 48,
+              "height": 48
+            },
+            "thumbnail": {
+              "width": 200,
+              "height": 112
+            },
+            "preview": {
+              "width": 400,
+              "height": 224
+            },
+            "toenail": {
+              "width": 200,
+              "height": 112
+            }
+          },
+          "daylight": {
+            "icon": "https://images-webcams.windy.com/35/1547014335/daylight/icon/1547014335.jpg",
+            "thumbnail": "https://images-webcams.windy.com/35/1547014335/daylight/thumbnail/1547014335.jpg",
+            "preview": "https://images-webcams.windy.com/35/1547014335/daylight/preview/1547014335.jpg",
+            "toenail": "https://images-webcams.windy.com/35/1547014335/daylight/thumbnail/1547014335.jpg"
+          },
+          "update": 1577740227
+        },
+        "location": {
+          "city": "Baile Homorod",
+          "region": "Harghita",
+          "region_code": "KeegbjjI",
+          "country": "Romania",
+          "country_code": "RO",
+          "continent": "Europe",
+          "continent_code": "EU",
+          "latitude": 46.350158,
+          "longitude": 25.473612,
+          "timezone": "Europe/Bucharest",
+          "wikipedia": ""
+        },
+        "player": {
+          "live": {
+            "available": false,
+            "embed": ""
+          },
+          "day": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547014335#action-play-day",
+            "embed": "https://api.lookr.com/embed/player/1547014335/day"
+          },
+          "month": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547014335#action-play-month",
+            "embed": "https://api.lookr.com/embed/player/1547014335/month"
+          },
+          "year": {
+            "available": true,
+            "link": "https://www.lookr.com/lookout/1547014335#action-play-year",
+            "embed": "https://api.lookr.com/embed/player/1547014335/year"
+          },
+          "lifetime": {
+            "available": false,
+            "link": "https://www.lookr.com/lookout/1547014335#action-play-lifetime",
+            "embed": "https://api.lookr.com/embed/player/1547014335/lifetime"
+          }
+        }
+      }
+    ]
+  }
+}

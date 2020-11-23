@@ -1,0 +1,63 @@
+ENDPOINT 1
+
+https://webcamstravel.p.rapidapi.com/webcams/list/region=IT.20/orderby=popularity/limit=30?show=webcams:location,player,image
+
+https://api.myjson.com/bins/fzjpk
+
+
+ENDPOINT 2
+
+https://webcamstravel.p.rapidapi.com/webcams/list/country=RO/orderby=popularity/limit=50?show=webcams:location,player,image
+
+ENDPOINT 3
+
+https://webcamstravel.p.rapidapi.com/webcams/list/country=RO/orderby=hotness/limit=50?show=webcams:location,player,image
+
+
+Alba	RO-AB               RO.01
+Arad	RO-AR               -
+Argeș	RO-AG               RO.03
+Bacău	RO-BC               RO.04
+Bihor	RO-BH               RO.15
+Bistrița-Năsăud	RO-BN       RO.06
+Botoșani	RO-BT           -
+Brăila	RO-BR               RO.08
+Brașov	RO-BV               RO.09
+Buzău	RO-BZ               RO.11
+Caraș-Severin	RO-CS       RO.12
+Călărași	RO-CL
+Cluj	RO-CJ               RO.13
+Constanța	RO-CT           RO.14
+Covasna	RO-CV
+Dâmbovița	RO-DB
+Dolj	RO-DJ               RO.17
+Galați	RO-GL               RO.18
+Giurgiu	RO-GR               -
+Gorj	RO-GJ               RO.19
+Harghita	RO-HR           RO.20
+Hunedoara	RO-HD           RO.21
+Ialomița	RO-IL
+Iași	RO-IS               RO.23
+Ilfov	RO-IF               -
+Maramureș	RO-MM           -
+Mehedinți	RO-MH           -
+Mureș	RO-MS               RO.27
+Neamț	RO-NT               RO.28
+Olt	RO-OT                   RO.29
+Prahova	RO-PH               RO.30
+Sălaj	RO-SJ               -
+Satu Mare	RO-SM           RO.32
+Sibiu	RO-SB               RO.33
+Suceava	RO-SV               RO.34
+Teleorman	RO-TR           -
+Timiș	RO-TM               RO.36
+Tulcea	RO-TL               RO.37
+Vâlcea	RO-VL               RO.39
+Vaslui	RO-VS               RO.38
+Vrancea	RO-VN
+București	RO-B
+
+
+testing webcam id:
+
+https://rapidapi.com/webcams.travel/api/webcams-travel?endpoint=565c66afe4b0beaa7de9799b
